@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="libscan",
-    version="1.0.0",
+    version="1.1",
     author="AKM Korishee Apurbo",
     author_email="bandinvisible8@gmail.com",
     description="libscan: A Python dependency scanner and installer",
