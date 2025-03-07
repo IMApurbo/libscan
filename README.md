@@ -120,4 +120,3 @@ This project is open-source and available under the MIT License.
 ---
 
 **libscan** is designed to simplify your Python dependency management. Whether you're working on a new project or maintaining an existing one, it helps you manage your dependencies efficiently.
-```
